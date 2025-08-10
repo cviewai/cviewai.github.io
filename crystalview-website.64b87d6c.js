@@ -23513,39 +23513,12 @@ const Header = ()=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("header", {
                             columnNumber: 9
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
-                            href: "#ai",
-                            className: "text-gray-600 hover:text-indigo-600 transition",
-                            children: "AI"
-                        }, void 0, false, {
-                            fileName: "src/components/Header.jsx",
-                            lineNumber: 11,
-                            columnNumber: 9
-                        }, undefined),
-                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
-                            href: "#testimonials",
-                            className: "text-gray-600 hover:text-indigo-600 transition",
-                            children: "Testimonials"
-                        }, void 0, false, {
-                            fileName: "src/components/Header.jsx",
-                            lineNumber: 14,
-                            columnNumber: 9
-                        }, undefined),
-                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
                             href: "#services",
                             className: "text-gray-600 hover:text-indigo-600 transition",
                             children: "Services"
                         }, void 0, false, {
                             fileName: "src/components/Header.jsx",
-                            lineNumber: 17,
-                            columnNumber: 9
-                        }, undefined),
-                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
-                            href: "#faq",
-                            className: "text-gray-600 hover:text-indigo-600 transition",
-                            children: "FAQ"
-                        }, void 0, false, {
-                            fileName: "src/components/Header.jsx",
-                            lineNumber: 20,
+                            lineNumber: 11,
                             columnNumber: 9
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -23554,7 +23527,7 @@ const Header = ()=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("header", {
                             children: "Contact"
                         }, void 0, false, {
                             fileName: "src/components/Header.jsx",
-                            lineNumber: 23,
+                            lineNumber: 14,
                             columnNumber: 9
                         }, undefined)
                     ]
@@ -23567,7 +23540,7 @@ const Header = ()=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("header", {
                     className: "md:hidden"
                 }, void 0, false, {
                     fileName: "src/components/Header.jsx",
-                    lineNumber: 30,
+                    lineNumber: 21,
                     columnNumber: 7
                 }, undefined)
             ]
@@ -25947,9 +25920,9 @@ const Footer = ()=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("footer", {
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
                                             children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
-                                                href: "/#ai",
+                                                href: "/#services",
                                                 className: "hover:text-white transition",
-                                                children: "AI"
+                                                children: "Services"
                                             }, void 0, false, {
                                                 fileName: "src/components/Footer.jsx",
                                                 lineNumber: 16,
@@ -25962,9 +25935,9 @@ const Footer = ()=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("footer", {
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
                                             children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
-                                                href: "/#testimonials",
+                                                href: "/#contact",
                                                 className: "hover:text-white transition",
-                                                children: "Testimonials"
+                                                children: "Contact"
                                             }, void 0, false, {
                                                 fileName: "src/components/Footer.jsx",
                                                 lineNumber: 17,
@@ -25973,51 +25946,6 @@ const Footer = ()=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("footer", {
                                         }, void 0, false, {
                                             fileName: "src/components/Footer.jsx",
                                             lineNumber: 17,
-                                            columnNumber: 13
-                                        }, undefined),
-                                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
-                                            children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
-                                                href: "/#services",
-                                                className: "hover:text-white transition",
-                                                children: "Services"
-                                            }, void 0, false, {
-                                                fileName: "src/components/Footer.jsx",
-                                                lineNumber: 18,
-                                                columnNumber: 17
-                                            }, undefined)
-                                        }, void 0, false, {
-                                            fileName: "src/components/Footer.jsx",
-                                            lineNumber: 18,
-                                            columnNumber: 13
-                                        }, undefined),
-                                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
-                                            children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
-                                                href: "/#faq",
-                                                className: "hover:text-white transition",
-                                                children: "FAQ"
-                                            }, void 0, false, {
-                                                fileName: "src/components/Footer.jsx",
-                                                lineNumber: 19,
-                                                columnNumber: 17
-                                            }, undefined)
-                                        }, void 0, false, {
-                                            fileName: "src/components/Footer.jsx",
-                                            lineNumber: 19,
-                                            columnNumber: 13
-                                        }, undefined),
-                                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
-                                            children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
-                                                href: "/#contact",
-                                                className: "hover:text-white transition",
-                                                children: "Contact"
-                                            }, void 0, false, {
-                                                fileName: "src/components/Footer.jsx",
-                                                lineNumber: 20,
-                                                columnNumber: 17
-                                            }, undefined)
-                                        }, void 0, false, {
-                                            fileName: "src/components/Footer.jsx",
-                                            lineNumber: 20,
                                             columnNumber: 13
                                         }, undefined)
                                     ]
@@ -26040,7 +25968,7 @@ const Footer = ()=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("footer", {
                                     children: "Contact"
                                 }, void 0, false, {
                                     fileName: "src/components/Footer.jsx",
-                                    lineNumber: 24,
+                                    lineNumber: 21,
                                     columnNumber: 11
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("ul", {
@@ -26050,7 +25978,7 @@ const Footer = ()=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("footer", {
                                             children: "123 Innovation Drive, Suite 100, San Francisco, CA 94105"
                                         }, void 0, false, {
                                             fileName: "src/components/Footer.jsx",
-                                            lineNumber: 26,
+                                            lineNumber: 23,
                                             columnNumber: 13
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
@@ -26060,31 +25988,31 @@ const Footer = ()=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("footer", {
                                                 children: "contact@crystalview.ai"
                                             }, void 0, false, {
                                                 fileName: "src/components/Footer.jsx",
-                                                lineNumber: 27,
+                                                lineNumber: 24,
                                                 columnNumber: 17
                                             }, undefined)
                                         }, void 0, false, {
                                             fileName: "src/components/Footer.jsx",
-                                            lineNumber: 27,
+                                            lineNumber: 24,
                                             columnNumber: 13
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
                                             children: "(123) 456-7890"
                                         }, void 0, false, {
                                             fileName: "src/components/Footer.jsx",
-                                            lineNumber: 28,
+                                            lineNumber: 25,
                                             columnNumber: 13
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/components/Footer.jsx",
-                                    lineNumber: 25,
+                                    lineNumber: 22,
                                     columnNumber: 11
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/components/Footer.jsx",
-                            lineNumber: 23,
+                            lineNumber: 20,
                             columnNumber: 9
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -26095,7 +26023,7 @@ const Footer = ()=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("footer", {
                                     children: "Follow Us"
                                 }, void 0, false, {
                                     fileName: "src/components/Footer.jsx",
-                                    lineNumber: 32,
+                                    lineNumber: 29,
                                     columnNumber: 11
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -26107,7 +26035,7 @@ const Footer = ()=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("footer", {
                                             children: "Twitter"
                                         }, void 0, false, {
                                             fileName: "src/components/Footer.jsx",
-                                            lineNumber: 34,
+                                            lineNumber: 31,
                                             columnNumber: 13
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -26116,7 +26044,7 @@ const Footer = ()=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("footer", {
                                             children: "LinkedIn"
                                         }, void 0, false, {
                                             fileName: "src/components/Footer.jsx",
-                                            lineNumber: 35,
+                                            lineNumber: 32,
                                             columnNumber: 13
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -26125,19 +26053,19 @@ const Footer = ()=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("footer", {
                                             children: "Facebook"
                                         }, void 0, false, {
                                             fileName: "src/components/Footer.jsx",
-                                            lineNumber: 36,
+                                            lineNumber: 33,
                                             columnNumber: 13
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/components/Footer.jsx",
-                                    lineNumber: 33,
+                                    lineNumber: 30,
                                     columnNumber: 11
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/components/Footer.jsx",
-                            lineNumber: 31,
+                            lineNumber: 28,
                             columnNumber: 9
                         }, undefined)
                     ]
@@ -26157,7 +26085,7 @@ const Footer = ()=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("footer", {
                             ]
                         }, void 0, true, {
                             fileName: "src/components/Footer.jsx",
-                            lineNumber: 41,
+                            lineNumber: 38,
                             columnNumber: 9
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -26169,7 +26097,7 @@ const Footer = ()=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("footer", {
                                     children: "Privacy Policy"
                                 }, void 0, false, {
                                     fileName: "src/components/Footer.jsx",
-                                    lineNumber: 43,
+                                    lineNumber: 40,
                                     columnNumber: 11
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
@@ -26178,19 +26106,19 @@ const Footer = ()=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("footer", {
                                     children: "EULA"
                                 }, void 0, false, {
                                     fileName: "src/components/Footer.jsx",
-                                    lineNumber: 44,
+                                    lineNumber: 41,
                                     columnNumber: 11
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/components/Footer.jsx",
-                            lineNumber: 42,
+                            lineNumber: 39,
                             columnNumber: 9
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/components/Footer.jsx",
-                    lineNumber: 40,
+                    lineNumber: 37,
                     columnNumber: 7
                 }, undefined)
             ]
@@ -26231,12 +26159,6 @@ var _hero = require("../components/Hero");
 var _heroDefault = parcelHelpers.interopDefault(_hero);
 var _services = require("../components/Services");
 var _servicesDefault = parcelHelpers.interopDefault(_services);
-var _aisection = require("../components/AISection");
-var _aisectionDefault = parcelHelpers.interopDefault(_aisection);
-var _testimonials = require("../components/Testimonials");
-var _testimonialsDefault = parcelHelpers.interopDefault(_testimonials);
-var _faq = require("../components/FAQ");
-var _faqDefault = parcelHelpers.interopDefault(_faq);
 var _callToAction = require("../components/CallToAction");
 var _callToActionDefault = parcelHelpers.interopDefault(_callToAction);
 const HomePage = ()=>{
@@ -26244,38 +26166,23 @@ const HomePage = ()=>{
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _heroDefault.default), {}, void 0, false, {
                 fileName: "src/pages/HomePage.jsx",
-                lineNumber: 12,
+                lineNumber: 9,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _servicesDefault.default), {}, void 0, false, {
                 fileName: "src/pages/HomePage.jsx",
-                lineNumber: 13,
-                columnNumber: 7
-            }, undefined),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _aisectionDefault.default), {}, void 0, false, {
-                fileName: "src/pages/HomePage.jsx",
-                lineNumber: 14,
-                columnNumber: 7
-            }, undefined),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _testimonialsDefault.default), {}, void 0, false, {
-                fileName: "src/pages/HomePage.jsx",
-                lineNumber: 15,
-                columnNumber: 7
-            }, undefined),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _faqDefault.default), {}, void 0, false, {
-                fileName: "src/pages/HomePage.jsx",
-                lineNumber: 16,
+                lineNumber: 10,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _callToActionDefault.default), {}, void 0, false, {
                 fileName: "src/pages/HomePage.jsx",
-                lineNumber: 17,
+                lineNumber: 11,
                 columnNumber: 7
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/pages/HomePage.jsx",
-        lineNumber: 11,
+        lineNumber: 8,
         columnNumber: 5
     }, undefined);
 };
@@ -26289,7 +26196,7 @@ $RefreshReg$(_c, "HomePage");
   globalThis.$RefreshReg$ = prevRefreshReg;
   globalThis.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"dVPUn","react":"jMk1U","../components/Hero":"6Bk7b","../components/Services":"dqcYh","../components/AISection":"avdqK","../components/Testimonials":"la3ys","../components/FAQ":"9zG6L","../components/CallToAction":"1Gvms","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi"}],"6Bk7b":[function(require,module,exports,__globalThis) {
+},{"react/jsx-dev-runtime":"dVPUn","react":"jMk1U","../components/Hero":"6Bk7b","../components/Services":"dqcYh","../components/CallToAction":"1Gvms","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi"}],"6Bk7b":[function(require,module,exports,__globalThis) {
 var $parcel$ReactRefreshHelpers$604a = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 $parcel$ReactRefreshHelpers$604a.init();
 var prevRefreshReg = globalThis.$RefreshReg$;
@@ -26369,19 +26276,14 @@ var _react = require("react");
 var _reactDefault = parcelHelpers.interopDefault(_react);
 const services = [
     {
-        title: "Data Analytics and Insights",
-        description: "We turn your raw data into actionable intelligence. Our team of experts uses advanced analytics techniques to uncover trends, patterns, and opportunities that drive informed decision-making.",
+        title: "Fractional Financial Stewardship Services",
+        description: "Get strategic financial leadership and planning without the cost of a full-time executive. Ideal for growing non-profits.",
         icon: "\uD83D\uDCCA"
     },
     {
-        title: "AI-Driven Automation",
-        description: "Streamline your operations and increase efficiency with our AI-powered automation solutions. From back-office tasks to customer-facing processes, we help you automate workflows and reduce manual effort.",
+        title: "System & Process Optimization",
+        description: "Streamline your non profit operations with optimized systems and processes for greater efficiency and accuracy.",
         icon: "\uD83E\uDD16"
-    },
-    {
-        title: "Custom AI Models",
-        description: "Leverage the power of artificial intelligence with custom models built for your specific needs. We design, develop, and deploy bespoke AI solutions that integrate seamlessly with your existing systems.",
-        icon: "\uD83D\uDCA1"
     }
 ];
 const Services = ()=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
@@ -26397,16 +26299,16 @@ const Services = ()=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
                         children: "Our Comprehensive Suite of Services"
                     }, void 0, false, {
                         fileName: "src/components/Services.jsx",
-                        lineNumber: 28,
+                        lineNumber: 22,
                         columnNumber: 9
                     }, undefined)
                 }, void 0, false, {
                     fileName: "src/components/Services.jsx",
-                    lineNumber: 27,
+                    lineNumber: 21,
                     columnNumber: 7
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                    className: "grid md:grid-cols-3 gap-8",
+                    className: "grid md:grid-cols-2 gap-8",
                     children: services.map((service, index)=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                             className: "bg-white p-8 rounded-xl shadow-lg hover:shadow-2xl transition-shadow duration-300",
                             children: [
@@ -26415,7 +26317,7 @@ const Services = ()=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
                                     children: service.icon
                                 }, void 0, false, {
                                     fileName: "src/components/Services.jsx",
-                                    lineNumber: 38,
+                                    lineNumber: 32,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h3", {
@@ -26423,7 +26325,7 @@ const Services = ()=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
                                     children: service.title
                                 }, void 0, false, {
                                     fileName: "src/components/Services.jsx",
-                                    lineNumber: 39,
+                                    lineNumber: 33,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -26431,29 +26333,29 @@ const Services = ()=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
                                     children: service.description
                                 }, void 0, false, {
                                     fileName: "src/components/Services.jsx",
-                                    lineNumber: 42,
+                                    lineNumber: 36,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, index, true, {
                             fileName: "src/components/Services.jsx",
-                            lineNumber: 34,
+                            lineNumber: 28,
                             columnNumber: 11
                         }, undefined))
                 }, void 0, false, {
                     fileName: "src/components/Services.jsx",
-                    lineNumber: 32,
+                    lineNumber: 26,
                     columnNumber: 7
                 }, undefined)
             ]
         }, void 0, true, {
             fileName: "src/components/Services.jsx",
-            lineNumber: 26,
+            lineNumber: 20,
             columnNumber: 5
         }, undefined)
     }, void 0, false, {
         fileName: "src/components/Services.jsx",
-        lineNumber: 25,
+        lineNumber: 19,
         columnNumber: 3
     }, undefined);
 _c = Services;
@@ -26462,444 +26364,6 @@ var _c;
 $RefreshReg$(_c, "Services");
 
   $parcel$ReactRefreshHelpers$09f0.postlude(module);
-} finally {
-  globalThis.$RefreshReg$ = prevRefreshReg;
-  globalThis.$RefreshSig$ = prevRefreshSig;
-}
-},{"react/jsx-dev-runtime":"dVPUn","react":"jMk1U","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi"}],"avdqK":[function(require,module,exports,__globalThis) {
-var $parcel$ReactRefreshHelpers$7193 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
-$parcel$ReactRefreshHelpers$7193.init();
-var prevRefreshReg = globalThis.$RefreshReg$;
-var prevRefreshSig = globalThis.$RefreshSig$;
-$parcel$ReactRefreshHelpers$7193.prelude(module);
-
-try {
-var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
-parcelHelpers.defineInteropFlag(exports);
-var _jsxDevRuntime = require("react/jsx-dev-runtime");
-var _react = require("react");
-var _reactDefault = parcelHelpers.interopDefault(_react);
-const AISection = ()=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
-        className: "bg-white py-20",
-        id: "ai",
-        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-            className: "container mx-auto px-6",
-            children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "flex flex-col md:flex-row items-center",
-                children: [
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "md:w-1/2 mb-10 md:mb-0",
-                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                            src: "https://images.unsplash.com/photo-1526378722484-bd91ca387e72?q=80&w=2071&auto=format&fit=crop",
-                            alt: "AI Advantage",
-                            className: "rounded-lg shadow-2xl"
-                        }, void 0, false, {
-                            fileName: "src/components/AISection.jsx",
-                            lineNumber: 8,
-                            columnNumber: 11
-                        }, undefined)
-                    }, void 0, false, {
-                        fileName: "src/components/AISection.jsx",
-                        lineNumber: 7,
-                        columnNumber: 9
-                    }, undefined),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "md:w-1/2 md:pl-12",
-                        children: [
-                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h2", {
-                                className: "text-4xl font-bold text-gray-900 mb-4",
-                                children: "The CrystalView AI Advantage"
-                            }, void 0, false, {
-                                fileName: "src/components/AISection.jsx",
-                                lineNumber: 15,
-                                columnNumber: 11
-                            }, undefined),
-                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                                className: "text-gray-600 mb-6",
-                                children: "Our AI is not a one-size-fits-all solution. We fine-tune our models to understand the nuances of your business, ensuring higher accuracy and more relevant insights."
-                            }, void 0, false, {
-                                fileName: "src/components/AISection.jsx",
-                                lineNumber: 18,
-                                columnNumber: 11
-                            }, undefined),
-                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("ul", {
-                                className: "space-y-4 text-gray-700",
-                                children: [
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
-                                        className: "flex items-start",
-                                        children: [
-                                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
-                                                className: "text-indigo-600 font-bold mr-3",
-                                                children: "\u2714"
-                                            }, void 0, false, {
-                                                fileName: "src/components/AISection.jsx",
-                                                lineNumber: 25,
-                                                columnNumber: 15
-                                            }, undefined),
-                                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
-                                                children: [
-                                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("strong", {
-                                                        children: "Domain-Specific Training:"
-                                                    }, void 0, false, {
-                                                        fileName: "src/components/AISection.jsx",
-                                                        lineNumber: 27,
-                                                        columnNumber: 17
-                                                    }, undefined),
-                                                    " We train our models on your data to understand your industry's terminology and context."
-                                                ]
-                                            }, void 0, true, {
-                                                fileName: "src/components/AISection.jsx",
-                                                lineNumber: 26,
-                                                columnNumber: 15
-                                            }, undefined)
-                                        ]
-                                    }, void 0, true, {
-                                        fileName: "src/components/AISection.jsx",
-                                        lineNumber: 24,
-                                        columnNumber: 13
-                                    }, undefined),
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
-                                        className: "flex items-start",
-                                        children: [
-                                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
-                                                className: "text-indigo-600 font-bold mr-3",
-                                                children: "\u2714"
-                                            }, void 0, false, {
-                                                fileName: "src/components/AISection.jsx",
-                                                lineNumber: 33,
-                                                columnNumber: 15
-                                            }, undefined),
-                                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
-                                                children: [
-                                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("strong", {
-                                                        children: "Seamless Integration:"
-                                                    }, void 0, false, {
-                                                        fileName: "src/components/AISection.jsx",
-                                                        lineNumber: 35,
-                                                        columnNumber: 17
-                                                    }, undefined),
-                                                    " Our APIs are designed for easy integration with your existing software and workflows."
-                                                ]
-                                            }, void 0, true, {
-                                                fileName: "src/components/AISection.jsx",
-                                                lineNumber: 34,
-                                                columnNumber: 15
-                                            }, undefined)
-                                        ]
-                                    }, void 0, true, {
-                                        fileName: "src/components/AISection.jsx",
-                                        lineNumber: 32,
-                                        columnNumber: 13
-                                    }, undefined),
-                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
-                                        className: "flex items-start",
-                                        children: [
-                                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
-                                                className: "text-indigo-600 font-bold mr-3",
-                                                children: "\u2714"
-                                            }, void 0, false, {
-                                                fileName: "src/components/AISection.jsx",
-                                                lineNumber: 40,
-                                                columnNumber: 15
-                                            }, undefined),
-                                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
-                                                children: [
-                                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("strong", {
-                                                        children: "Continuous Learning:"
-                                                    }, void 0, false, {
-                                                        fileName: "src/components/AISection.jsx",
-                                                        lineNumber: 42,
-                                                        columnNumber: 17
-                                                    }, undefined),
-                                                    " Our models adapt and improve over time, learning from new data to provide ever-more-valuable insights."
-                                                ]
-                                            }, void 0, true, {
-                                                fileName: "src/components/AISection.jsx",
-                                                lineNumber: 41,
-                                                columnNumber: 15
-                                            }, undefined)
-                                        ]
-                                    }, void 0, true, {
-                                        fileName: "src/components/AISection.jsx",
-                                        lineNumber: 39,
-                                        columnNumber: 13
-                                    }, undefined)
-                                ]
-                            }, void 0, true, {
-                                fileName: "src/components/AISection.jsx",
-                                lineNumber: 23,
-                                columnNumber: 11
-                            }, undefined)
-                        ]
-                    }, void 0, true, {
-                        fileName: "src/components/AISection.jsx",
-                        lineNumber: 14,
-                        columnNumber: 9
-                    }, undefined)
-                ]
-            }, void 0, true, {
-                fileName: "src/components/AISection.jsx",
-                lineNumber: 6,
-                columnNumber: 7
-            }, undefined)
-        }, void 0, false, {
-            fileName: "src/components/AISection.jsx",
-            lineNumber: 5,
-            columnNumber: 5
-        }, undefined)
-    }, void 0, false, {
-        fileName: "src/components/AISection.jsx",
-        lineNumber: 4,
-        columnNumber: 3
-    }, undefined);
-_c = AISection;
-exports.default = AISection;
-var _c;
-$RefreshReg$(_c, "AISection");
-
-  $parcel$ReactRefreshHelpers$7193.postlude(module);
-} finally {
-  globalThis.$RefreshReg$ = prevRefreshReg;
-  globalThis.$RefreshSig$ = prevRefreshSig;
-}
-},{"react/jsx-dev-runtime":"dVPUn","react":"jMk1U","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi"}],"la3ys":[function(require,module,exports,__globalThis) {
-var $parcel$ReactRefreshHelpers$7424 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
-$parcel$ReactRefreshHelpers$7424.init();
-var prevRefreshReg = globalThis.$RefreshReg$;
-var prevRefreshSig = globalThis.$RefreshSig$;
-$parcel$ReactRefreshHelpers$7424.prelude(module);
-
-try {
-var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
-parcelHelpers.defineInteropFlag(exports);
-var _jsxDevRuntime = require("react/jsx-dev-runtime");
-var _react = require("react");
-var _reactDefault = parcelHelpers.interopDefault(_react);
-const testimonials = [
-    {
-        quote: "CrystalView's data analytics platform has been a game-changer for our marketing team. We can now visualize our campaign performance in real-time and make data-driven decisions that have significantly improved our ROI.",
-        name: "Sarah Johnson",
-        title: "CMO at Innovate Inc."
-    },
-    {
-        quote: "The AI automation solution developed by CrystalView has saved us countless hours of manual work. Our team can now focus on strategic initiatives instead of getting bogged down in repetitive tasks.",
-        name: "Michael Chen",
-        title: "COO of Global Logistics"
-    },
-    {
-        quote: "Working with CrystalView has been a true partnership. Their team took the time to understand our unique challenges and delivered a custom AI model that has exceeded our expectations. I highly recommend their services.",
-        name: "David Rodriguez",
-        title: "CEO of Tech Solutions"
-    }
-];
-const Testimonials = ()=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
-        className: "bg-gray-50 py-20",
-        id: "testimonials",
-        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-            className: "container mx-auto px-6 text-center",
-            children: [
-                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h2", {
-                    className: "text-4xl font-bold text-gray-900 mb-12",
-                    children: "What Our Clients Say"
-                }, void 0, false, {
-                    fileName: "src/components/Testimonials.jsx",
-                    lineNumber: 27,
-                    columnNumber: 7
-                }, undefined),
-                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                    className: "grid md:grid-cols-3 gap-8",
-                    children: testimonials.map((t, index)=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                            className: "bg-white shadow-lg rounded-2xl p-8 text-left flex flex-col",
-                            children: [
-                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                                    className: "text-gray-600 italic mb-6 flex-grow",
-                                    children: [
-                                        "\u201C",
-                                        t.quote,
-                                        "\u201D"
-                                    ]
-                                }, void 0, true, {
-                                    fileName: "src/components/Testimonials.jsx",
-                                    lineNumber: 36,
-                                    columnNumber: 13
-                                }, undefined),
-                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                    children: [
-                                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                                            className: "font-bold text-lg text-gray-800",
-                                            children: t.name
-                                        }, void 0, false, {
-                                            fileName: "src/components/Testimonials.jsx",
-                                            lineNumber: 38,
-                                            columnNumber: 15
-                                        }, undefined),
-                                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                                            className: "text-sm text-gray-500",
-                                            children: t.title
-                                        }, void 0, false, {
-                                            fileName: "src/components/Testimonials.jsx",
-                                            lineNumber: 39,
-                                            columnNumber: 15
-                                        }, undefined)
-                                    ]
-                                }, void 0, true, {
-                                    fileName: "src/components/Testimonials.jsx",
-                                    lineNumber: 37,
-                                    columnNumber: 13
-                                }, undefined)
-                            ]
-                        }, index, true, {
-                            fileName: "src/components/Testimonials.jsx",
-                            lineNumber: 32,
-                            columnNumber: 11
-                        }, undefined))
-                }, void 0, false, {
-                    fileName: "src/components/Testimonials.jsx",
-                    lineNumber: 30,
-                    columnNumber: 7
-                }, undefined)
-            ]
-        }, void 0, true, {
-            fileName: "src/components/Testimonials.jsx",
-            lineNumber: 26,
-            columnNumber: 5
-        }, undefined)
-    }, void 0, false, {
-        fileName: "src/components/Testimonials.jsx",
-        lineNumber: 25,
-        columnNumber: 3
-    }, undefined);
-_c = Testimonials;
-exports.default = Testimonials;
-var _c;
-$RefreshReg$(_c, "Testimonials");
-
-  $parcel$ReactRefreshHelpers$7424.postlude(module);
-} finally {
-  globalThis.$RefreshReg$ = prevRefreshReg;
-  globalThis.$RefreshSig$ = prevRefreshSig;
-}
-},{"react/jsx-dev-runtime":"dVPUn","react":"jMk1U","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi"}],"9zG6L":[function(require,module,exports,__globalThis) {
-var $parcel$ReactRefreshHelpers$0e1f = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
-$parcel$ReactRefreshHelpers$0e1f.init();
-var prevRefreshReg = globalThis.$RefreshReg$;
-var prevRefreshSig = globalThis.$RefreshSig$;
-$parcel$ReactRefreshHelpers$0e1f.prelude(module);
-
-try {
-var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
-parcelHelpers.defineInteropFlag(exports);
-var _jsxDevRuntime = require("react/jsx-dev-runtime");
-var _react = require("react");
-var _reactDefault = parcelHelpers.interopDefault(_react);
-var _s = $RefreshSig$();
-const faqs = [
-    {
-        question: "What industries do you specialize in?",
-        answer: "We have experience working with a wide range of industries, including technology, e-commerce, healthcare, finance, and manufacturing. Our solutions are adaptable and can be tailored to meet the unique needs of any business."
-    },
-    {
-        question: "How do you ensure the security of our data?",
-        answer: "Data security is our top priority. We employ end-to-end encryption, access controls, and regular security audits to protect your data. We are fully compliant with industry standards like GDPR and CCPA."
-    },
-    {
-        question: "What is the typical implementation timeline?",
-        answer: "The timeline for implementation varies depending on the complexity of the project. A typical data analytics project can take anywhere from 4 to 8 weeks, while a custom AI model can take 3 to 6 months. We work closely with you to establish a clear timeline and milestones."
-    },
-    {
-        question: "Do you provide ongoing support?",
-        answer: "Yes, we offer a range of support packages to ensure that you continue to get the most value from our solutions. Our support team is available to assist you with any questions or issues that may arise."
-    }
-];
-const FAQ = ()=>{
-    _s();
-    const [openIndex, setOpenIndex] = (0, _react.useState)(null);
-    const toggle = (index)=>{
-        setOpenIndex(openIndex === index ? null : index);
-    };
-    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
-        className: "bg-white py-20",
-        id: "faq",
-        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-            className: "container mx-auto px-6",
-            children: [
-                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h2", {
-                    className: "text-4xl font-bold text-gray-900 mb-12 text-center",
-                    children: "Frequently Asked Questions"
-                }, void 0, false, {
-                    fileName: "src/components/FAQ.jsx",
-                    lineNumber: 36,
-                    columnNumber: 9
-                }, undefined),
-                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                    className: "max-w-3xl mx-auto",
-                    children: faqs.map((faq, i)=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                            className: "border-b border-gray-200 py-4",
-                            children: [
-                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                    className: "flex justify-between items-center cursor-pointer",
-                                    onClick: ()=>toggle(i),
-                                    children: [
-                                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h3", {
-                                            className: "text-lg font-semibold text-gray-800",
-                                            children: faq.question
-                                        }, void 0, false, {
-                                            fileName: "src/components/FAQ.jsx",
-                                            lineNumber: 46,
-                                            columnNumber: 17
-                                        }, undefined),
-                                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
-                                            className: "text-2xl text-indigo-600",
-                                            children: openIndex === i ? "-" : "+"
-                                        }, void 0, false, {
-                                            fileName: "src/components/FAQ.jsx",
-                                            lineNumber: 49,
-                                            columnNumber: 17
-                                        }, undefined)
-                                    ]
-                                }, void 0, true, {
-                                    fileName: "src/components/FAQ.jsx",
-                                    lineNumber: 42,
-                                    columnNumber: 15
-                                }, undefined),
-                                openIndex === i && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                                    className: "mt-4 text-gray-600",
-                                    children: faq.answer
-                                }, void 0, false, {
-                                    fileName: "src/components/FAQ.jsx",
-                                    lineNumber: 54,
-                                    columnNumber: 17
-                                }, undefined)
-                            ]
-                        }, i, true, {
-                            fileName: "src/components/FAQ.jsx",
-                            lineNumber: 41,
-                            columnNumber: 13
-                        }, undefined))
-                }, void 0, false, {
-                    fileName: "src/components/FAQ.jsx",
-                    lineNumber: 39,
-                    columnNumber: 9
-                }, undefined)
-            ]
-        }, void 0, true, {
-            fileName: "src/components/FAQ.jsx",
-            lineNumber: 35,
-            columnNumber: 7
-        }, undefined)
-    }, void 0, false, {
-        fileName: "src/components/FAQ.jsx",
-        lineNumber: 34,
-        columnNumber: 5
-    }, undefined);
-};
-_s(FAQ, "7z1SfW1ag/kVV/D8SOtFgmPOJ8o=");
-_c = FAQ;
-exports.default = FAQ;
-var _c;
-$RefreshReg$(_c, "FAQ");
-
-  $parcel$ReactRefreshHelpers$0e1f.postlude(module);
 } finally {
   globalThis.$RefreshReg$ = prevRefreshReg;
   globalThis.$RefreshSig$ = prevRefreshSig;
