@@ -24,6 +24,29 @@ To run the website on your local machine, follow these steps:
     npm run dev
     ```
 
+## Running Tests
+
+This project uses Cypress for end-to-end testing to verify all navigation and links.
+
+To run the tests:
+
+1.  **Start the development server** in one terminal:
+    ```bash
+    npm run dev
+    ```
+
+2.  **Run Cypress** in a separate terminal:
+    ```bash
+    npm run cy:run
+    ```
+
+## Contact Form
+
+The contact page uses an embedded Google Form to handle submissions.
+
+-   **To edit the form's fields or view responses,** you must do so from the Google Form itself.
+-   The form is embedded as an `iframe` in `src/pages/ContactPage.jsx`.
+
 ## Deployment
 
 The website is deployed to GitHub Pages. The deployment process is automated via an npm script.
@@ -37,3 +60,5 @@ This command will:
 1.  Build the production version of the site into the `dist` folder.
 2.  Push the contents of the `dist` folder to the `gh-pages` branch.
 3.  Automatically handle the `CNAME` file to ensure the custom domain (`crystalview.ai`) is configured correctly.
+
+This project uses `BrowserRouter`. To support direct navigation to sub-pages (e.g., `/contact`) on GitHub Pages, a `404.html` redirect workaround has been implemented.

@@ -1,11 +1,12 @@
 import React from "react";
-import { createHashRouter } from "react-router-dom";
+import { createBrowserRouter } from "react-router-dom";
 import Layout from "./components/Layout";
 import HomePage from "./pages/HomePage";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
 import Eula from "./pages/Eula";
+import ContactPage from "./pages/ContactPage";
 
-const router = createHashRouter([
+const routes = [
   {
     path: "/",
     element: <Layout />,
@@ -22,8 +23,14 @@ const router = createHashRouter([
         path: "eula",
         element: <Eula />,
       },
+      {
+        path: "contact",
+        element: <ContactPage />,
+      },
     ],
   },
-]);
+];
 
-export default router;
+const router = createBrowserRouter(routes);
+
+export { router, routes };

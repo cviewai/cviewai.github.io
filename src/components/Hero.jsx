@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 const Hero = () => (
   <section className="bg-white py-24" id="solutions">
@@ -10,12 +11,12 @@ const Hero = () => (
         CrystalView provides cutting-edge data analytics and AI-driven
         automation to help you unlock new opportunities and drive growth.
       </p>
-      <a
-        href="#contact"
+      <Link
+        to="/contact"
         className="bg-indigo-600 text-white px-8 py-4 rounded-full font-bold text-lg hover:bg-indigo-700 transition-transform transform hover:scale-105"
       >
         Get Started
-      </a>
+      </Link>
     </div>
   </section>
 );
