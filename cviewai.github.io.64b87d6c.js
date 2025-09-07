@@ -23382,7 +23382,7 @@ var _privacyPolicy = require("./pages/PrivacyPolicy");
 var _privacyPolicyDefault = parcelHelpers.interopDefault(_privacyPolicy);
 var _eula = require("./pages/Eula");
 var _eulaDefault = parcelHelpers.interopDefault(_eula);
-const router = (0, _reactRouterDom.createBrowserRouter)([
+const router = (0, _reactRouterDom.createHashRouter)([
     {
         path: "/",
         element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _layoutDefault.default), {}, void 0, false, {
@@ -23425,7 +23425,7 @@ exports.default = router;
   globalThis.$RefreshReg$ = prevRefreshReg;
   globalThis.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"dVPUn","react":"jMk1U","react-router-dom":"61z4w","./components/Layout":"7ROys","./pages/HomePage":"50v4t","./pages/PrivacyPolicy":"9gthk","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi","./pages/Eula":"ituSR"}],"7ROys":[function(require,module,exports,__globalThis) {
+},{"react/jsx-dev-runtime":"dVPUn","react":"jMk1U","react-router-dom":"61z4w","./components/Layout":"7ROys","./pages/HomePage":"50v4t","./pages/PrivacyPolicy":"9gthk","./pages/Eula":"ituSR","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi"}],"7ROys":[function(require,module,exports,__globalThis) {
 var $parcel$ReactRefreshHelpers$655c = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 $parcel$ReactRefreshHelpers$655c.init();
 var prevRefreshReg = globalThis.$RefreshReg$;
@@ -23504,12 +23504,23 @@ const Header = ()=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("header", {
                     className: "hidden md:flex items-center space-x-6",
                     children: [
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
+                            href: "https://vision.crystalview.ai",
+                            target: "_blank",
+                            rel: "noopener noreferrer",
+                            className: "text-gray-600 hover:text-indigo-600 transition",
+                            children: "Vision"
+                        }, void 0, false, {
+                            fileName: "src/components/Header.jsx",
+                            lineNumber: 8,
+                            columnNumber: 9
+                        }, undefined),
+                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
                             href: "#solutions",
                             className: "text-gray-600 hover:text-indigo-600 transition",
                             children: "Solutions"
                         }, void 0, false, {
                             fileName: "src/components/Header.jsx",
-                            lineNumber: 8,
+                            lineNumber: 16,
                             columnNumber: 9
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -23518,7 +23529,7 @@ const Header = ()=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("header", {
                             children: "Services"
                         }, void 0, false, {
                             fileName: "src/components/Header.jsx",
-                            lineNumber: 11,
+                            lineNumber: 19,
                             columnNumber: 9
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -23527,7 +23538,7 @@ const Header = ()=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("header", {
                             children: "Contact"
                         }, void 0, false, {
                             fileName: "src/components/Header.jsx",
-                            lineNumber: 14,
+                            lineNumber: 22,
                             columnNumber: 9
                         }, undefined)
                     ]
@@ -23540,7 +23551,7 @@ const Header = ()=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("header", {
                     className: "md:hidden"
                 }, void 0, false, {
                     fileName: "src/components/Header.jsx",
-                    lineNumber: 21,
+                    lineNumber: 29,
                     columnNumber: 7
                 }, undefined)
             ]
@@ -27671,4 +27682,4 @@ $RefreshReg$(_c, "Eula");
 }
 },{"react/jsx-dev-runtime":"dVPUn","react":"jMk1U","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi"}],"irmnC":[function() {},{}]},["9RH0m","eM1fv"], "eM1fv", "parcelRequire8f0e", {}, null, null, "http://localhost:1234")
 
-//# sourceMappingURL=crystalview-website.64b87d6c.js.map
+//# sourceMappingURL=cviewai.github.io.64b87d6c.js.map
