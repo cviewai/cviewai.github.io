@@ -1,12 +1,39 @@
-# React + Vite
+# CrystalView.ai Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains the source code for the official CrystalView.ai website, built with React and Tailwind CSS, and deployed on GitHub Pages.
 
-Currently, two official plugins are available:
+## Local Development
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To run the website on your local machine, follow these steps:
 
-## Expanding the ESLint configuration
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/cviewai/cviewai.github.io.git
+    cd cviewai.github.io
+    ```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+2.  **Install dependencies:**
+    Make sure you have Node.js installed. Then, run the following command to install the necessary packages:
+    ```bash
+    npm install
+    ```
+
+3.  **Start the development server:**
+    This command will start a local development server (usually on `http://localhost:1234`) with hot-reloading enabled.
+    ```bash
+    npm run dev
+    ```
+
+## Deployment
+
+The website is deployed to GitHub Pages. The deployment process is automated via an npm script.
+
+To deploy the website, simply run the following command:
+```bash
+npm run deploy
+```
+
+This command will:
+1.  Build the production version of the site into the `dist` folder.
+2.  Push the contents of the `dist` folder to the `gh-pages` branch.
+3.  Automatically handle the `CNAME` file to ensure the custom domain (`crystalview.ai`) is configured correctly.

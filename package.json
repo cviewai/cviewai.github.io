@@ -9,7 +9,7 @@
     "build": "parcel build index.html",
     "lint": "eslint .",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist --cname crystalview.ai"
   },
   "dependencies": {
     "react": "^19.1.0",
