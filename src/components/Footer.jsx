@@ -20,9 +20,7 @@ const Footer = () => (
         <div className="col-span-1">
           <h4 className="text-white font-semibold text-lg mb-4">Contact</h4>
           <ul className="space-y-2">
-            <li>123 Innovation Drive, Suite 100, San Francisco, CA 94105</li>
             <li><a href="mailto:contact@crystalview.ai" className="hover:text-white transition">contact@crystalview.ai</a></li>
-            <li>(123) 456-7890</li>
           </ul>
         </div>
         <div className="col-span-1">
